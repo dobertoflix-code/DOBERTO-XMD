@@ -1,0 +1,10 @@
+{
+  "bot": {
+    "mode": "self",
+    "antidemote": true,
+    "antipromote": true
+  },
+  "50955260059@s.whatsapp.net": {
+    "autobio": false
+  }
+}
